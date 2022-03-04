@@ -1,6 +1,6 @@
 # My GraphQL Custom
 
-##installation
+## installation
 npm install
 npm start
 npm run test
