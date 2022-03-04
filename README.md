@@ -1,8 +1,6 @@
-/* First, Install the needed packages */
+# My GraphQL Custom
+
+##installation
 npm install
-
-/* Then start the React app */
 npm start
-
-/* To run the tests */
 npm run test
